@@ -1,2 +1,2 @@
-# Rainforcement-Learning-Mario-Autocomplete
-Reinforcement Learning Mario Autocomplete
+# Rainforcement-Learning-Game-Autocomplete
+Reinforcement Learning Game Autocomplete

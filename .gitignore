@@ -1,3 +1,5 @@
 train/
 logs/
 thisisatestmodel.zip
+cart_pole/train_cart_pole
+cart_pole/logs_cart_pole
